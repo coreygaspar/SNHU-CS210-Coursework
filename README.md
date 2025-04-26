@@ -1,7 +1,8 @@
 # SNHU-CS210-Coursework
 Coursework from CS-210 Programming Languages
 
-Airgead Banking Program (Project 3)
+---
+**Airgead Banking Program (Project 3)**
 
 **Summarize the project and what problem it was solving.**
 
